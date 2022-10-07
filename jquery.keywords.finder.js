@@ -199,7 +199,7 @@
                     }
                 }
                 $("#keywordsCounter").html(keywordsCounter);
-                $("#technicalarpresult").html(sb);
+                $("#result").html(sb);
                 //loader()
                 //document.getElementById("input").value += sb;
 
